@@ -23,7 +23,7 @@ for num in xrange(1,101):
     else:
         print num
 
-SOLUTION 3
+# SOLUTION 3
 for num in xrange(1,101):
     msg = ""
     if num % 3 == 0:
